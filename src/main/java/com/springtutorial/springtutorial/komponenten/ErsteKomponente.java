@@ -7,7 +7,7 @@ public class ErsteKomponente implements ErsteKomponenteI{
 	
 	@Override
 	public String helloWorld() {
-		return "Hello World hinter einem Interface";
+		return "Hello World hinter einem Interface!";
 	}
 
 }
